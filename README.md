@@ -1,3 +1,5 @@
+**Note** This is a temporary package until the original package gets updated on NPM. The new *cacheBuster* option is needed.
+
 # gulp-iconfont-css
 > Generate (S)CSS file for icon font created with [Gulp](http://gulpjs.com/)
 

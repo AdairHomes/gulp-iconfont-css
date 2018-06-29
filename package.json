@@ -1,9 +1,9 @@
 {
-  "name": "gulp-iconfont-css",
-  "version": "2.1.0",
-  "description": "Generate (S)CSS file for icon font created with Gulp",
+  "name": "@adair/gulp-iconfont-css",
+  "version": "2.2.0",
+  "description": "Fork of backflip/gulp-iconfont-css. Generate (S)CSS file for icon font created with Gulp",
   "license": "MIT",
-  "repository": "backflip/gulp-iconfont-css",
+  "repository": "AdairHomes/gulp-iconfont-css",
   "author": "Thomas Jaggi, Nicolas Froidure",
   "engines": {
     "node": ">=0.10.0"
